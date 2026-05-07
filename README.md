@@ -16,8 +16,7 @@ Linux iptables防火墙实验：NAT伪装、最小权限策略、内网流量控
 - iptables、ip route
 
 ## 实验报告
-详见仓库中的 [基于Linux iptables的内网流量控制实验.docx](基于Linux iptables的内网流量控制实验.docx)
-
+详见仓库中的 [基于Linux iptables的内网流量控制实验.docx]
 ## 关键收获
 - 掌握iptables规则顺序对策略生效的决定性影响
 - 理解企业网络中NAT和最小权限原则的实际落地方式
